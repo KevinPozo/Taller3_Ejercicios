@@ -1,0 +1,1 @@
+https://huggingface.co/intfloat/multilingual-e5-small/tree/main/onnx
